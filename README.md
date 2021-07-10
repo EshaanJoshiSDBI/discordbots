@@ -4,10 +4,10 @@
 - news bot
 	- Greets users
 	- Input: `$hello`
-	- ![hello]('hello.png')
+	- <img src = hello.png alt = 'hello' width = 350>
 	- returns news on the topic given using the google news api
 	- Input: `news:data`
-	- ![news]('news.png')
+	- <img src = news.png alt = 'news' width = 350>
 
 ### Other bot ideas
 - Plays music
